@@ -1,0 +1,2 @@
+# ignitor.documentdb
+DocumentDB ODM
